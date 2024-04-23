@@ -1,6 +1,6 @@
 h1 {
     position: absolute;
-    top: -25px; left: 100px;
+    top: -25px; left: 150px;
     font-size: 60px;
     text-align: center;
     border: 2px;
@@ -15,7 +15,12 @@ h1 {
     background: rgb(46, 71, 71);
 }
 
-p {
+.HOME {
     position:relative;
-    top: 150px; left: 20px;
+    top: 20px; left: 20px;
+    font-size: 20px;
+}
+.PAGE2 {
+    position:relative;
+    top: -20px; left: 660px;
 }
