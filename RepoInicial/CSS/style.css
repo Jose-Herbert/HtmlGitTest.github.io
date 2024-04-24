@@ -1,7 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
 h1 {
     position: absolute;
-    top: -25px; left: 150px;
-    font-size: 45px;
+    top: 25px; left: 80px;
+    font-size: 37px;
     text-align: center;
     border: 2px;
     border-color: beige;
@@ -9,19 +15,26 @@ h1 {
 
 .cabecalho {
     position: absolute;
-    top: 0px; left: 0px;
-    width: 300px;
-    height: 00px;
+    top: 0px; left: -170px;
+
+    max-width:700px;
+    max-height:900px;
+    height: auto;
+
 }
 
 .HOME {
     position:relative;
-    top: 20px; left: 20px;
-    font-size: 20px;
+    top: 160px; left: 350px;
+    font-size: 25px;
 }
-.PAGE2 {
+.Separador {
     position:relative;
-    top: -20px; left: 660px;
+    top: 330px; left: 390px;
+}
+.Foto {
+    position:relative;
+    top: 160px; left: 30px;
 }
 
 body {
