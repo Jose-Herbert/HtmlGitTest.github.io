@@ -1,7 +1,7 @@
 h1 {
     position: absolute;
     top: -25px; left: 150px;
-    font-size: 60px;
+    font-size: 45px;
     text-align: center;
     border: 2px;
     border-color: beige;
@@ -10,9 +10,8 @@ h1 {
 .cabecalho {
     position: absolute;
     top: 0px; left: 0px;
-    width: 1600px;
-    height: 100px;
-    background: rgb(46, 71, 71);
+    width: 300px;
+    height: 00px;
 }
 
 .HOME {
@@ -29,4 +28,5 @@ body {
     width: 900px;
     height: 900px;
     overflow-x: hidden;
+    overflow-y: hidden;
 }
