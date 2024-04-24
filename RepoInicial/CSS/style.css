@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     font-family: 'Roboto', sans-serif;
+    font-style: var(color: bisque;);
 }
 
 h1 {
@@ -14,26 +15,18 @@ h1 {
 }
 
 .cabecalho {
+    background-color: rgb(60, 75, 33);
     position: absolute;
     top: 0px; left: -170px;
     max-width:700px;
     max-height:900px;
     height: auto;
-
 }
 
 .HOME {
     position:relative;
     top: 160px; left: 350px;
     font-size: 25px;
-}
-.Separador {
-    position:relative;
-    top: 330px; left: 390px;
-}
-.Foto {
-    position:relative;
-    top: 160px; left: 30px;
 }
 
 .Display-social{
@@ -48,12 +41,8 @@ h1 {
 }
 
 
-
-
-
 body {
     width: 900px;
-    height: 900px;
+    height: 1080px;
     overflow-x: hidden;
-    overflow-y: hidden;
 }
