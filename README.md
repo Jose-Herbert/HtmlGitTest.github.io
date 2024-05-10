@@ -8,7 +8,7 @@ _criado apenas para contemplar o curso de git._
 
 ## Funcionalidades Adicionadas:
 
-* Header -[x]
-* Botão Home -[]
-* Logo -[]
-* imagens -[]
+- [x] Header
+- [ ] Botão Home
+- [ ] Logo
+- [x] imagens
